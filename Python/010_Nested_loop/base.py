@@ -1,0 +1,5 @@
+x = input("What symbol would you like to use? ")
+z = int(input("Width of your box? "))
+y = int(input("What’s the height of your box? "))
+print(x) in range(y)
+print(x) in range(z)
